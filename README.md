@@ -22,3 +22,7 @@ A Machine Learning–based web application that predicts weather conditions usin
 **Backend:** Python, Django
 **ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
+---
+## Conclusion
+
+**It is a small segment that can be embedded in bulky weather analysis systems** 
