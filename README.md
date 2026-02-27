@@ -1,4 +1,3 @@
-
 # 🌦️ Weather Prediction System
 
 ## 📌 Overview
@@ -9,18 +8,18 @@ A Machine Learning–based web application that predicts weather conditions usin
 
 ## 🚀 Features
 
-* Weather prediction using ML model
-* User-friendly web interface
-* Real-time input and prediction output
-* Data visualization support
+* Weather prediction using ML model.
+* User-friendly web interface.
+* Real-time input and prediction output.
+* Data visualization support.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript
-**Backend:** Python, Django
-**ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+**Frontend:** HTML, CSS, JavaScript.
+**Backend:** Python, Django.
+**ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn.
 
 ---
 ## Conclusion
