@@ -1,40 +1,34 @@
-#🌦️ Weather Prediction System
-📌 Overview
+# 🌦️ Weather Prediction System
 
-The Weather Prediction System is a machine learning-based application that forecasts weather conditions using parameters such as temperature, humidity, and wind speed. It analyzes historical data to provide accurate and reliable predictions through an interactive web interface.
+## 📌 Overview  
+The Weather Prediction System is a machine learning-based application that predicts weather conditions using parameters like temperature, humidity, and wind speed. It analyzes historical data to provide accurate forecasts through an interactive web interface.
 
-🚀 Features
+## 🚀 Features  
+- Predicts weather based on user inputs  
+- Machine learning-based prediction  
+- Simple and user-friendly interface  
+- Instant results display  
 
-Predicts weather conditions based on user inputs
+## 🛠️ Technologies Used  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Python, Django  
+- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib  
 
-Uses machine learning algorithms for accuracy
+## ⚙️ How It Works  
+1. Enter weather parameters (temperature, humidity, wind speed)  
+2. Model processes the input data  
+3. Prediction is generated  
+4. Output is displayed on the screen  
 
-Interactive and user-friendly interface
+## 📊 Model Details  
+- Trained on historical weather data  
+- Uses supervised learning algorithms  
+- Optimized for accuracy  
 
-Real-time input and instant prediction output
+## 💡 Future Improvements  
+- Integration with live weather APIs  
+- Improved model accuracy  
+- Cloud deployment  
 
-🛠️ Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Python, Django
-
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib
-
-⚙️ How It Works
-
-User inputs weather parameters (temperature, humidity, wind speed).
-
-The trained ML model processes the input data.
-
-The system predicts the weather condition.
-
-Results are displayed on the web interface.
-
-📊 Model Details
-
-Trained on historical weather datasets
-
-Uses supervised learning techniques for prediction
-
-Optimized for better accuracy and performance
+## 📷 Output  
+Displays predicted weather conditions based on user input.
